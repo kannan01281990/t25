@@ -1,7 +1,6 @@
 import java.util.Scanner;  
 import java.lang.Math;  
-import java.io.inputprinter;
-public class SpiralPatternExample2
+helloworld
 {  
 //function to print the spiral pattern  
 public static void printPattern(int n)  

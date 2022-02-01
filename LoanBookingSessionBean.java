@@ -8,10 +8,10 @@ public static void printPattern(int n)
 {  
 //detrmines the boundary size of the array  
 int size = 2 * n - 1;  
-//inner loop  
-print(kannan)
+//inner loop
 for(int i = 1; i <= size; i++)  
 {  
+    hello fishJOOOOOOOOOOOOOOOOOOOOO
 //outer loop      
 for(int j = 1; j <= size; j++)  
 {  
